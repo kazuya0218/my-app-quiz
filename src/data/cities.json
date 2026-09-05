@@ -1,0 +1,3170 @@
+[
+  {
+    "city": "あま市",
+    "prefecture": "愛知県"
+  },
+  {
+    "city": "みよし市",
+    "prefecture": "愛知県"
+  },
+  {
+    "city": "愛西市",
+    "prefecture": "愛知県"
+  },
+  {
+    "city": "安城市",
+    "prefecture": "愛知県"
+  },
+  {
+    "city": "一宮市",
+    "prefecture": "愛知県"
+  },
+  {
+    "city": "稲沢市",
+    "prefecture": "愛知県"
+  },
+  {
+    "city": "岡崎市",
+    "prefecture": "愛知県"
+  },
+  {
+    "city": "蒲郡市",
+    "prefecture": "愛知県"
+  },
+  {
+    "city": "刈谷市",
+    "prefecture": "愛知県"
+  },
+  {
+    "city": "岩倉市",
+    "prefecture": "愛知県"
+  },
+  {
+    "city": "犬山市",
+    "prefecture": "愛知県"
+  },
+  {
+    "city": "江南市",
+    "prefecture": "愛知県"
+  },
+  {
+    "city": "高浜市",
+    "prefecture": "愛知県"
+  },
+  {
+    "city": "春日井市",
+    "prefecture": "愛知県"
+  },
+  {
+    "city": "小牧市",
+    "prefecture": "愛知県"
+  },
+  {
+    "city": "常滑市",
+    "prefecture": "愛知県"
+  },
+  {
+    "city": "新城市",
+    "prefecture": "愛知県"
+  },
+  {
+    "city": "瀬戸市",
+    "prefecture": "愛知県"
+  },
+  {
+    "city": "清須市",
+    "prefecture": "愛知県"
+  },
+  {
+    "city": "西尾市",
+    "prefecture": "愛知県"
+  },
+  {
+    "city": "大府市",
+    "prefecture": "愛知県"
+  },
+  {
+    "city": "知多市",
+    "prefecture": "愛知県"
+  },
+  {
+    "city": "知立市",
+    "prefecture": "愛知県"
+  },
+  {
+    "city": "長久手市",
+    "prefecture": "愛知県"
+  },
+  {
+    "city": "津島市",
+    "prefecture": "愛知県"
+  },
+  {
+    "city": "田原市",
+    "prefecture": "愛知県"
+  },
+  {
+    "city": "東海市",
+    "prefecture": "愛知県"
+  },
+  {
+    "city": "日進市",
+    "prefecture": "愛知県"
+  },
+  {
+    "city": "半田市",
+    "prefecture": "愛知県"
+  },
+  {
+    "city": "尾張旭市",
+    "prefecture": "愛知県"
+  },
+  {
+    "city": "碧南市",
+    "prefecture": "愛知県"
+  },
+  {
+    "city": "豊橋市",
+    "prefecture": "愛知県"
+  },
+  {
+    "city": "豊川市",
+    "prefecture": "愛知県"
+  },
+  {
+    "city": "豊田市",
+    "prefecture": "愛知県"
+  },
+  {
+    "city": "豊明市",
+    "prefecture": "愛知県"
+  },
+  {
+    "city": "北名古屋市",
+    "prefecture": "愛知県"
+  },
+  {
+    "city": "名古屋市",
+    "prefecture": "愛知県"
+  },
+  {
+    "city": "弥富市",
+    "prefecture": "愛知県"
+  },
+  {
+    "city": "伊予市",
+    "prefecture": "愛媛県"
+  },
+  {
+    "city": "宇和島市",
+    "prefecture": "愛媛県"
+  },
+  {
+    "city": "今治市",
+    "prefecture": "愛媛県"
+  },
+  {
+    "city": "四国中央市",
+    "prefecture": "愛媛県"
+  },
+  {
+    "city": "松山市",
+    "prefecture": "愛媛県"
+  },
+  {
+    "city": "新居浜市",
+    "prefecture": "愛媛県"
+  },
+  {
+    "city": "西条市",
+    "prefecture": "愛媛県"
+  },
+  {
+    "city": "西予市",
+    "prefecture": "愛媛県"
+  },
+  {
+    "city": "大洲市",
+    "prefecture": "愛媛県"
+  },
+  {
+    "city": "東温市",
+    "prefecture": "愛媛県"
+  },
+  {
+    "city": "八幡浜市",
+    "prefecture": "愛媛県"
+  },
+  {
+    "city": "かすみがうら市",
+    "prefecture": "茨城県"
+  },
+  {
+    "city": "つくばみらい市",
+    "prefecture": "茨城県"
+  },
+  {
+    "city": "つくば市",
+    "prefecture": "茨城県"
+  },
+  {
+    "city": "ひたちなか市",
+    "prefecture": "茨城県"
+  },
+  {
+    "city": "稲敷市",
+    "prefecture": "茨城県"
+  },
+  {
+    "city": "下妻市",
+    "prefecture": "茨城県"
+  },
+  {
+    "city": "笠間市",
+    "prefecture": "茨城県"
+  },
+  {
+    "city": "牛久市",
+    "prefecture": "茨城県"
+  },
+  {
+    "city": "結城市",
+    "prefecture": "茨城県"
+  },
+  {
+    "city": "古河市",
+    "prefecture": "茨城県"
+  },
+  {
+    "city": "行方市",
+    "prefecture": "茨城県"
+  },
+  {
+    "city": "高萩市",
+    "prefecture": "茨城県"
+  },
+  {
+    "city": "坂東市",
+    "prefecture": "茨城県"
+  },
+  {
+    "city": "桜川市",
+    "prefecture": "茨城県"
+  },
+  {
+    "city": "鹿嶋市",
+    "prefecture": "茨城県"
+  },
+  {
+    "city": "取手市",
+    "prefecture": "茨城県"
+  },
+  {
+    "city": "守谷市",
+    "prefecture": "茨城県"
+  },
+  {
+    "city": "小美玉市",
+    "prefecture": "茨城県"
+  },
+  {
+    "city": "常総市",
+    "prefecture": "茨城県"
+  },
+  {
+    "city": "常陸太田市",
+    "prefecture": "茨城県"
+  },
+  {
+    "city": "常陸大宮市",
+    "prefecture": "茨城県"
+  },
+  {
+    "city": "神栖市",
+    "prefecture": "茨城県"
+  },
+  {
+    "city": "水戸市",
+    "prefecture": "茨城県"
+  },
+  {
+    "city": "石岡市",
+    "prefecture": "茨城県"
+  },
+  {
+    "city": "筑西市",
+    "prefecture": "茨城県"
+  },
+  {
+    "city": "潮来市",
+    "prefecture": "茨城県"
+  },
+  {
+    "city": "土浦市",
+    "prefecture": "茨城県"
+  },
+  {
+    "city": "那珂市",
+    "prefecture": "茨城県"
+  },
+  {
+    "city": "日立市",
+    "prefecture": "茨城県"
+  },
+  {
+    "city": "鉾田市",
+    "prefecture": "茨城県"
+  },
+  {
+    "city": "北茨城市",
+    "prefecture": "茨城県"
+  },
+  {
+    "city": "龍ケ崎市",
+    "prefecture": "茨城県"
+  },
+  {
+    "city": "井原市",
+    "prefecture": "岡山県"
+  },
+  {
+    "city": "岡山市",
+    "prefecture": "岡山県"
+  },
+  {
+    "city": "笠岡市",
+    "prefecture": "岡山県"
+  },
+  {
+    "city": "玉野市",
+    "prefecture": "岡山県"
+  },
+  {
+    "city": "高梁市",
+    "prefecture": "岡山県"
+  },
+  {
+    "city": "新見市",
+    "prefecture": "岡山県"
+  },
+  {
+    "city": "真庭市",
+    "prefecture": "岡山県"
+  },
+  {
+    "city": "瀬戸内市",
+    "prefecture": "岡山県"
+  },
+  {
+    "city": "赤磐市",
+    "prefecture": "岡山県"
+  },
+  {
+    "city": "浅口市",
+    "prefecture": "岡山県"
+  },
+  {
+    "city": "倉敷市",
+    "prefecture": "岡山県"
+  },
+  {
+    "city": "総社市",
+    "prefecture": "岡山県"
+  },
+  {
+    "city": "津山市",
+    "prefecture": "岡山県"
+  },
+  {
+    "city": "備前市",
+    "prefecture": "岡山県"
+  },
+  {
+    "city": "美作市",
+    "prefecture": "岡山県"
+  },
+  {
+    "city": "うるま市",
+    "prefecture": "沖縄県"
+  },
+  {
+    "city": "浦添市",
+    "prefecture": "沖縄県"
+  },
+  {
+    "city": "沖縄市",
+    "prefecture": "沖縄県"
+  },
+  {
+    "city": "宜野湾市",
+    "prefecture": "沖縄県"
+  },
+  {
+    "city": "宮古島市",
+    "prefecture": "沖縄県"
+  },
+  {
+    "city": "糸満市",
+    "prefecture": "沖縄県"
+  },
+  {
+    "city": "石垣市",
+    "prefecture": "沖縄県"
+  },
+  {
+    "city": "那覇市",
+    "prefecture": "沖縄県"
+  },
+  {
+    "city": "南城市",
+    "prefecture": "沖縄県"
+  },
+  {
+    "city": "豊見城市",
+    "prefecture": "沖縄県"
+  },
+  {
+    "city": "名護市",
+    "prefecture": "沖縄県"
+  },
+  {
+    "city": "一関市",
+    "prefecture": "岩手県"
+  },
+  {
+    "city": "遠野市",
+    "prefecture": "岩手県"
+  },
+  {
+    "city": "奥州市",
+    "prefecture": "岩手県"
+  },
+  {
+    "city": "花巻市",
+    "prefecture": "岩手県"
+  },
+  {
+    "city": "釜石市",
+    "prefecture": "岩手県"
+  },
+  {
+    "city": "久慈市",
+    "prefecture": "岩手県"
+  },
+  {
+    "city": "宮古市",
+    "prefecture": "岩手県"
+  },
+  {
+    "city": "盛岡市",
+    "prefecture": "岩手県"
+  },
+  {
+    "city": "大船渡市",
+    "prefecture": "岩手県"
+  },
+  {
+    "city": "滝沢市",
+    "prefecture": "岩手県"
+  },
+  {
+    "city": "二戸市",
+    "prefecture": "岩手県"
+  },
+  {
+    "city": "八幡平市",
+    "prefecture": "岩手県"
+  },
+  {
+    "city": "北上市",
+    "prefecture": "岩手県"
+  },
+  {
+    "city": "陸前高田市",
+    "prefecture": "岩手県"
+  },
+  {
+    "city": "羽島市",
+    "prefecture": "岐阜県"
+  },
+  {
+    "city": "下呂市",
+    "prefecture": "岐阜県"
+  },
+  {
+    "city": "可児市",
+    "prefecture": "岐阜県"
+  },
+  {
+    "city": "海津市",
+    "prefecture": "岐阜県"
+  },
+  {
+    "city": "各務原市",
+    "prefecture": "岐阜県"
+  },
+  {
+    "city": "関市",
+    "prefecture": "岐阜県"
+  },
+  {
+    "city": "岐阜市",
+    "prefecture": "岐阜県"
+  },
+  {
+    "city": "郡上市",
+    "prefecture": "岐阜県"
+  },
+  {
+    "city": "恵那市",
+    "prefecture": "岐阜県"
+  },
+  {
+    "city": "高山市",
+    "prefecture": "岐阜県"
+  },
+  {
+    "city": "山県市",
+    "prefecture": "岐阜県"
+  },
+  {
+    "city": "瑞穂市",
+    "prefecture": "岐阜県"
+  },
+  {
+    "city": "瑞浪市",
+    "prefecture": "岐阜県"
+  },
+  {
+    "city": "多治見市",
+    "prefecture": "岐阜県"
+  },
+  {
+    "city": "大垣市",
+    "prefecture": "岐阜県"
+  },
+  {
+    "city": "中津川市",
+    "prefecture": "岐阜県"
+  },
+  {
+    "city": "土岐市",
+    "prefecture": "岐阜県"
+  },
+  {
+    "city": "飛騨市",
+    "prefecture": "岐阜県"
+  },
+  {
+    "city": "美濃加茂市",
+    "prefecture": "岐阜県"
+  },
+  {
+    "city": "美濃市",
+    "prefecture": "岐阜県"
+  },
+  {
+    "city": "本巣市",
+    "prefecture": "岐阜県"
+  },
+  {
+    "city": "えびの市",
+    "prefecture": "宮崎県"
+  },
+  {
+    "city": "延岡市",
+    "prefecture": "宮崎県"
+  },
+  {
+    "city": "宮崎市",
+    "prefecture": "宮崎県"
+  },
+  {
+    "city": "串間市",
+    "prefecture": "宮崎県"
+  },
+  {
+    "city": "小林市",
+    "prefecture": "宮崎県"
+  },
+  {
+    "city": "西都市",
+    "prefecture": "宮崎県"
+  },
+  {
+    "city": "都城市",
+    "prefecture": "宮崎県"
+  },
+  {
+    "city": "日向市",
+    "prefecture": "宮崎県"
+  },
+  {
+    "city": "日南市",
+    "prefecture": "宮崎県"
+  },
+  {
+    "city": "塩竈市",
+    "prefecture": "宮城県"
+  },
+  {
+    "city": "角田市",
+    "prefecture": "宮城県"
+  },
+  {
+    "city": "岩沼市",
+    "prefecture": "宮城県"
+  },
+  {
+    "city": "気仙沼市",
+    "prefecture": "宮城県"
+  },
+  {
+    "city": "栗原市",
+    "prefecture": "宮城県"
+  },
+  {
+    "city": "石巻市",
+    "prefecture": "宮城県"
+  },
+  {
+    "city": "仙台市",
+    "prefecture": "宮城県"
+  },
+  {
+    "city": "多賀城市",
+    "prefecture": "宮城県"
+  },
+  {
+    "city": "大崎市",
+    "prefecture": "宮城県"
+  },
+  {
+    "city": "登米市",
+    "prefecture": "宮城県"
+  },
+  {
+    "city": "東松島市",
+    "prefecture": "宮城県"
+  },
+  {
+    "city": "白石市",
+    "prefecture": "宮城県"
+  },
+  {
+    "city": "富谷市",
+    "prefecture": "宮城県"
+  },
+  {
+    "city": "名取市",
+    "prefecture": "宮城県"
+  },
+  {
+    "city": "綾部市",
+    "prefecture": "京都府"
+  },
+  {
+    "city": "宇治市",
+    "prefecture": "京都府"
+  },
+  {
+    "city": "亀岡市",
+    "prefecture": "京都府"
+  },
+  {
+    "city": "宮津市",
+    "prefecture": "京都府"
+  },
+  {
+    "city": "京丹後市",
+    "prefecture": "京都府"
+  },
+  {
+    "city": "京田辺市",
+    "prefecture": "京都府"
+  },
+  {
+    "city": "京都市",
+    "prefecture": "京都府"
+  },
+  {
+    "city": "向日市",
+    "prefecture": "京都府"
+  },
+  {
+    "city": "城陽市",
+    "prefecture": "京都府"
+  },
+  {
+    "city": "長岡京市",
+    "prefecture": "京都府"
+  },
+  {
+    "city": "南丹市",
+    "prefecture": "京都府"
+  },
+  {
+    "city": "八幡市",
+    "prefecture": "京都府"
+  },
+  {
+    "city": "舞鶴市",
+    "prefecture": "京都府"
+  },
+  {
+    "city": "福知山市",
+    "prefecture": "京都府"
+  },
+  {
+    "city": "木津川市",
+    "prefecture": "京都府"
+  },
+  {
+    "city": "阿蘇市",
+    "prefecture": "熊本県"
+  },
+  {
+    "city": "宇城市",
+    "prefecture": "熊本県"
+  },
+  {
+    "city": "宇土市",
+    "prefecture": "熊本県"
+  },
+  {
+    "city": "菊池市",
+    "prefecture": "熊本県"
+  },
+  {
+    "city": "玉名市",
+    "prefecture": "熊本県"
+  },
+  {
+    "city": "熊本市",
+    "prefecture": "熊本県"
+  },
+  {
+    "city": "荒尾市",
+    "prefecture": "熊本県"
+  },
+  {
+    "city": "合志市",
+    "prefecture": "熊本県"
+  },
+  {
+    "city": "山鹿市",
+    "prefecture": "熊本県"
+  },
+  {
+    "city": "上天草市",
+    "prefecture": "熊本県"
+  },
+  {
+    "city": "人吉市",
+    "prefecture": "熊本県"
+  },
+  {
+    "city": "水俣市",
+    "prefecture": "熊本県"
+  },
+  {
+    "city": "天草市",
+    "prefecture": "熊本県"
+  },
+  {
+    "city": "八代市",
+    "prefecture": "熊本県"
+  },
+  {
+    "city": "みどり市",
+    "prefecture": "群馬県"
+  },
+  {
+    "city": "安中市",
+    "prefecture": "群馬県"
+  },
+  {
+    "city": "伊勢崎市",
+    "prefecture": "群馬県"
+  },
+  {
+    "city": "館林市",
+    "prefecture": "群馬県"
+  },
+  {
+    "city": "桐生市",
+    "prefecture": "群馬県"
+  },
+  {
+    "city": "高崎市",
+    "prefecture": "群馬県"
+  },
+  {
+    "city": "渋川市",
+    "prefecture": "群馬県"
+  },
+  {
+    "city": "沼田市",
+    "prefecture": "群馬県"
+  },
+  {
+    "city": "前橋市",
+    "prefecture": "群馬県"
+  },
+  {
+    "city": "太田市",
+    "prefecture": "群馬県"
+  },
+  {
+    "city": "藤岡市",
+    "prefecture": "群馬県"
+  },
+  {
+    "city": "富岡市",
+    "prefecture": "群馬県"
+  },
+  {
+    "city": "安芸高田市",
+    "prefecture": "広島県"
+  },
+  {
+    "city": "呉市",
+    "prefecture": "広島県"
+  },
+  {
+    "city": "広島市",
+    "prefecture": "広島県"
+  },
+  {
+    "city": "江田島市",
+    "prefecture": "広島県"
+  },
+  {
+    "city": "三原市",
+    "prefecture": "広島県"
+  },
+  {
+    "city": "三次市",
+    "prefecture": "広島県"
+  },
+  {
+    "city": "庄原市",
+    "prefecture": "広島県"
+  },
+  {
+    "city": "大竹市",
+    "prefecture": "広島県"
+  },
+  {
+    "city": "竹原市",
+    "prefecture": "広島県"
+  },
+  {
+    "city": "東広島市",
+    "prefecture": "広島県"
+  },
+  {
+    "city": "廿日市市",
+    "prefecture": "広島県"
+  },
+  {
+    "city": "尾道市",
+    "prefecture": "広島県"
+  },
+  {
+    "city": "府中市",
+    "prefecture": "広島県"
+  },
+  {
+    "city": "福山市",
+    "prefecture": "広島県"
+  },
+  {
+    "city": "さぬき市",
+    "prefecture": "香川県"
+  },
+  {
+    "city": "観音寺市",
+    "prefecture": "香川県"
+  },
+  {
+    "city": "丸亀市",
+    "prefecture": "香川県"
+  },
+  {
+    "city": "高松市",
+    "prefecture": "香川県"
+  },
+  {
+    "city": "坂出市",
+    "prefecture": "香川県"
+  },
+  {
+    "city": "三豊市",
+    "prefecture": "香川県"
+  },
+  {
+    "city": "善通寺市",
+    "prefecture": "香川県"
+  },
+  {
+    "city": "東かがわ市",
+    "prefecture": "香川県"
+  },
+  {
+    "city": "安芸市",
+    "prefecture": "高知県"
+  },
+  {
+    "city": "香南市",
+    "prefecture": "高知県"
+  },
+  {
+    "city": "香美市",
+    "prefecture": "高知県"
+  },
+  {
+    "city": "高知市",
+    "prefecture": "高知県"
+  },
+  {
+    "city": "四万十市",
+    "prefecture": "高知県"
+  },
+  {
+    "city": "室戸市",
+    "prefecture": "高知県"
+  },
+  {
+    "city": "宿毛市",
+    "prefecture": "高知県"
+  },
+  {
+    "city": "須崎市",
+    "prefecture": "高知県"
+  },
+  {
+    "city": "土佐市",
+    "prefecture": "高知県"
+  },
+  {
+    "city": "土佐清水市",
+    "prefecture": "高知県"
+  },
+  {
+    "city": "南国市",
+    "prefecture": "高知県"
+  },
+  {
+    "city": "伊万里市",
+    "prefecture": "佐賀県"
+  },
+  {
+    "city": "嬉野市",
+    "prefecture": "佐賀県"
+  },
+  {
+    "city": "佐賀市",
+    "prefecture": "佐賀県"
+  },
+  {
+    "city": "鹿島市",
+    "prefecture": "佐賀県"
+  },
+  {
+    "city": "小城市",
+    "prefecture": "佐賀県"
+  },
+  {
+    "city": "神埼市",
+    "prefecture": "佐賀県"
+  },
+  {
+    "city": "多久市",
+    "prefecture": "佐賀県"
+  },
+  {
+    "city": "鳥栖市",
+    "prefecture": "佐賀県"
+  },
+  {
+    "city": "唐津市",
+    "prefecture": "佐賀県"
+  },
+  {
+    "city": "武雄市",
+    "prefecture": "佐賀県"
+  },
+  {
+    "city": "さいたま市",
+    "prefecture": "埼玉県"
+  },
+  {
+    "city": "ふじみ野市",
+    "prefecture": "埼玉県"
+  },
+  {
+    "city": "羽生市",
+    "prefecture": "埼玉県"
+  },
+  {
+    "city": "越谷市",
+    "prefecture": "埼玉県"
+  },
+  {
+    "city": "桶川市",
+    "prefecture": "埼玉県"
+  },
+  {
+    "city": "加須市",
+    "prefecture": "埼玉県"
+  },
+  {
+    "city": "吉川市",
+    "prefecture": "埼玉県"
+  },
+  {
+    "city": "久喜市",
+    "prefecture": "埼玉県"
+  },
+  {
+    "city": "狭山市",
+    "prefecture": "埼玉県"
+  },
+  {
+    "city": "熊谷市",
+    "prefecture": "埼玉県"
+  },
+  {
+    "city": "戸田市",
+    "prefecture": "埼玉県"
+  },
+  {
+    "city": "幸手市",
+    "prefecture": "埼玉県"
+  },
+  {
+    "city": "行田市",
+    "prefecture": "埼玉県"
+  },
+  {
+    "city": "鴻巣市",
+    "prefecture": "埼玉県"
+  },
+  {
+    "city": "坂戸市",
+    "prefecture": "埼玉県"
+  },
+  {
+    "city": "三郷市",
+    "prefecture": "埼玉県"
+  },
+  {
+    "city": "志木市",
+    "prefecture": "埼玉県"
+  },
+  {
+    "city": "春日部市",
+    "prefecture": "埼玉県"
+  },
+  {
+    "city": "所沢市",
+    "prefecture": "埼玉県"
+  },
+  {
+    "city": "上尾市",
+    "prefecture": "埼玉県"
+  },
+  {
+    "city": "新座市",
+    "prefecture": "埼玉県"
+  },
+  {
+    "city": "深谷市",
+    "prefecture": "埼玉県"
+  },
+  {
+    "city": "川越市",
+    "prefecture": "埼玉県"
+  },
+  {
+    "city": "川口市",
+    "prefecture": "埼玉県"
+  },
+  {
+    "city": "草加市",
+    "prefecture": "埼玉県"
+  },
+  {
+    "city": "秩父市",
+    "prefecture": "埼玉県"
+  },
+  {
+    "city": "朝霞市",
+    "prefecture": "埼玉県"
+  },
+  {
+    "city": "鶴ヶ島市",
+    "prefecture": "埼玉県"
+  },
+  {
+    "city": "東松山市",
+    "prefecture": "埼玉県"
+  },
+  {
+    "city": "日高市",
+    "prefecture": "埼玉県"
+  },
+  {
+    "city": "入間市",
+    "prefecture": "埼玉県"
+  },
+  {
+    "city": "白岡市",
+    "prefecture": "埼玉県"
+  },
+  {
+    "city": "八潮市",
+    "prefecture": "埼玉県"
+  },
+  {
+    "city": "飯能市",
+    "prefecture": "埼玉県"
+  },
+  {
+    "city": "富士見市",
+    "prefecture": "埼玉県"
+  },
+  {
+    "city": "北本市",
+    "prefecture": "埼玉県"
+  },
+  {
+    "city": "本庄市",
+    "prefecture": "埼玉県"
+  },
+  {
+    "city": "蓮田市",
+    "prefecture": "埼玉県"
+  },
+  {
+    "city": "和光市",
+    "prefecture": "埼玉県"
+  },
+  {
+    "city": "蕨市",
+    "prefecture": "埼玉県"
+  },
+  {
+    "city": "いなべ市",
+    "prefecture": "三重県"
+  },
+  {
+    "city": "伊賀市",
+    "prefecture": "三重県"
+  },
+  {
+    "city": "伊勢市",
+    "prefecture": "三重県"
+  },
+  {
+    "city": "亀山市",
+    "prefecture": "三重県"
+  },
+  {
+    "city": "熊野市",
+    "prefecture": "三重県"
+  },
+  {
+    "city": "桑名市",
+    "prefecture": "三重県"
+  },
+  {
+    "city": "四日市市",
+    "prefecture": "三重県"
+  },
+  {
+    "city": "志摩市",
+    "prefecture": "三重県"
+  },
+  {
+    "city": "松阪市",
+    "prefecture": "三重県"
+  },
+  {
+    "city": "鳥羽市",
+    "prefecture": "三重県"
+  },
+  {
+    "city": "津市",
+    "prefecture": "三重県"
+  },
+  {
+    "city": "尾鷲市",
+    "prefecture": "三重県"
+  },
+  {
+    "city": "名張市",
+    "prefecture": "三重県"
+  },
+  {
+    "city": "鈴鹿市",
+    "prefecture": "三重県"
+  },
+  {
+    "city": "寒河江市",
+    "prefecture": "山形県"
+  },
+  {
+    "city": "山形市",
+    "prefecture": "山形県"
+  },
+  {
+    "city": "酒田市",
+    "prefecture": "山形県"
+  },
+  {
+    "city": "上山市",
+    "prefecture": "山形県"
+  },
+  {
+    "city": "新庄市",
+    "prefecture": "山形県"
+  },
+  {
+    "city": "村山市",
+    "prefecture": "山形県"
+  },
+  {
+    "city": "長井市",
+    "prefecture": "山形県"
+  },
+  {
+    "city": "鶴岡市",
+    "prefecture": "山形県"
+  },
+  {
+    "city": "天童市",
+    "prefecture": "山形県"
+  },
+  {
+    "city": "東根市",
+    "prefecture": "山形県"
+  },
+  {
+    "city": "南陽市",
+    "prefecture": "山形県"
+  },
+  {
+    "city": "尾花沢市",
+    "prefecture": "山形県"
+  },
+  {
+    "city": "米沢市",
+    "prefecture": "山形県"
+  },
+  {
+    "city": "宇部市",
+    "prefecture": "山口県"
+  },
+  {
+    "city": "下関市",
+    "prefecture": "山口県"
+  },
+  {
+    "city": "下松市",
+    "prefecture": "山口県"
+  },
+  {
+    "city": "岩国市",
+    "prefecture": "山口県"
+  },
+  {
+    "city": "光市",
+    "prefecture": "山口県"
+  },
+  {
+    "city": "山口市",
+    "prefecture": "山口県"
+  },
+  {
+    "city": "山陽小野田市",
+    "prefecture": "山口県"
+  },
+  {
+    "city": "周南市",
+    "prefecture": "山口県"
+  },
+  {
+    "city": "長門市",
+    "prefecture": "山口県"
+  },
+  {
+    "city": "萩市",
+    "prefecture": "山口県"
+  },
+  {
+    "city": "美祢市",
+    "prefecture": "山口県"
+  },
+  {
+    "city": "防府市",
+    "prefecture": "山口県"
+  },
+  {
+    "city": "柳井市",
+    "prefecture": "山口県"
+  },
+  {
+    "city": "甲州市",
+    "prefecture": "山梨県"
+  },
+  {
+    "city": "甲斐市",
+    "prefecture": "山梨県"
+  },
+  {
+    "city": "甲府市",
+    "prefecture": "山梨県"
+  },
+  {
+    "city": "山梨市",
+    "prefecture": "山梨県"
+  },
+  {
+    "city": "上野原市",
+    "prefecture": "山梨県"
+  },
+  {
+    "city": "大月市",
+    "prefecture": "山梨県"
+  },
+  {
+    "city": "中央市",
+    "prefecture": "山梨県"
+  },
+  {
+    "city": "笛吹市",
+    "prefecture": "山梨県"
+  },
+  {
+    "city": "都留市",
+    "prefecture": "山梨県"
+  },
+  {
+    "city": "南アルプス市",
+    "prefecture": "山梨県"
+  },
+  {
+    "city": "韮崎市",
+    "prefecture": "山梨県"
+  },
+  {
+    "city": "富士吉田市",
+    "prefecture": "山梨県"
+  },
+  {
+    "city": "北杜市",
+    "prefecture": "山梨県"
+  },
+  {
+    "city": "近江八幡市",
+    "prefecture": "滋賀県"
+  },
+  {
+    "city": "栗東市",
+    "prefecture": "滋賀県"
+  },
+  {
+    "city": "湖南市",
+    "prefecture": "滋賀県"
+  },
+  {
+    "city": "甲賀市",
+    "prefecture": "滋賀県"
+  },
+  {
+    "city": "高島市",
+    "prefecture": "滋賀県"
+  },
+  {
+    "city": "守山市",
+    "prefecture": "滋賀県"
+  },
+  {
+    "city": "草津市",
+    "prefecture": "滋賀県"
+  },
+  {
+    "city": "大津市",
+    "prefecture": "滋賀県"
+  },
+  {
+    "city": "長浜市",
+    "prefecture": "滋賀県"
+  },
+  {
+    "city": "東近江市",
+    "prefecture": "滋賀県"
+  },
+  {
+    "city": "彦根市",
+    "prefecture": "滋賀県"
+  },
+  {
+    "city": "米原市",
+    "prefecture": "滋賀県"
+  },
+  {
+    "city": "野洲市",
+    "prefecture": "滋賀県"
+  },
+  {
+    "city": "いちき串木野市",
+    "prefecture": "鹿児島県"
+  },
+  {
+    "city": "阿久根市",
+    "prefecture": "鹿児島県"
+  },
+  {
+    "city": "姶良市",
+    "prefecture": "鹿児島県"
+  },
+  {
+    "city": "伊佐市",
+    "prefecture": "鹿児島県"
+  },
+  {
+    "city": "奄美市",
+    "prefecture": "鹿児島県"
+  },
+  {
+    "city": "薩摩川内市",
+    "prefecture": "鹿児島県"
+  },
+  {
+    "city": "志布志市",
+    "prefecture": "鹿児島県"
+  },
+  {
+    "city": "指宿市",
+    "prefecture": "鹿児島県"
+  },
+  {
+    "city": "鹿屋市",
+    "prefecture": "鹿児島県"
+  },
+  {
+    "city": "鹿児島市",
+    "prefecture": "鹿児島県"
+  },
+  {
+    "city": "出水市",
+    "prefecture": "鹿児島県"
+  },
+  {
+    "city": "垂水市",
+    "prefecture": "鹿児島県"
+  },
+  {
+    "city": "西之表市",
+    "prefecture": "鹿児島県"
+  },
+  {
+    "city": "曽於市",
+    "prefecture": "鹿児島県"
+  },
+  {
+    "city": "南さつま市",
+    "prefecture": "鹿児島県"
+  },
+  {
+    "city": "南九州市",
+    "prefecture": "鹿児島県"
+  },
+  {
+    "city": "日置市",
+    "prefecture": "鹿児島県"
+  },
+  {
+    "city": "枕崎市",
+    "prefecture": "鹿児島県"
+  },
+  {
+    "city": "霧島市",
+    "prefecture": "鹿児島県"
+  },
+  {
+    "city": "にかほ市",
+    "prefecture": "秋田県"
+  },
+  {
+    "city": "横手市",
+    "prefecture": "秋田県"
+  },
+  {
+    "city": "潟上市",
+    "prefecture": "秋田県"
+  },
+  {
+    "city": "鹿角市",
+    "prefecture": "秋田県"
+  },
+  {
+    "city": "秋田市",
+    "prefecture": "秋田県"
+  },
+  {
+    "city": "仙北市",
+    "prefecture": "秋田県"
+  },
+  {
+    "city": "大館市",
+    "prefecture": "秋田県"
+  },
+  {
+    "city": "大仙市",
+    "prefecture": "秋田県"
+  },
+  {
+    "city": "男鹿市",
+    "prefecture": "秋田県"
+  },
+  {
+    "city": "湯沢市",
+    "prefecture": "秋田県"
+  },
+  {
+    "city": "能代市",
+    "prefecture": "秋田県"
+  },
+  {
+    "city": "北秋田市",
+    "prefecture": "秋田県"
+  },
+  {
+    "city": "由利本荘市",
+    "prefecture": "秋田県"
+  },
+  {
+    "city": "阿賀野市",
+    "prefecture": "新潟県"
+  },
+  {
+    "city": "燕市",
+    "prefecture": "新潟県"
+  },
+  {
+    "city": "加茂市",
+    "prefecture": "新潟県"
+  },
+  {
+    "city": "魚沼市",
+    "prefecture": "新潟県"
+  },
+  {
+    "city": "見附市",
+    "prefecture": "新潟県"
+  },
+  {
+    "city": "五泉市",
+    "prefecture": "新潟県"
+  },
+  {
+    "city": "佐渡市",
+    "prefecture": "新潟県"
+  },
+  {
+    "city": "三条市",
+    "prefecture": "新潟県"
+  },
+  {
+    "city": "糸魚川市",
+    "prefecture": "新潟県"
+  },
+  {
+    "city": "十日町市",
+    "prefecture": "新潟県"
+  },
+  {
+    "city": "小千谷市",
+    "prefecture": "新潟県"
+  },
+  {
+    "city": "上越市",
+    "prefecture": "新潟県"
+  },
+  {
+    "city": "新潟市",
+    "prefecture": "新潟県"
+  },
+  {
+    "city": "新発田市",
+    "prefecture": "新潟県"
+  },
+  {
+    "city": "村上市",
+    "prefecture": "新潟県"
+  },
+  {
+    "city": "胎内市",
+    "prefecture": "新潟県"
+  },
+  {
+    "city": "長岡市",
+    "prefecture": "新潟県"
+  },
+  {
+    "city": "南魚沼市",
+    "prefecture": "新潟県"
+  },
+  {
+    "city": "柏崎市",
+    "prefecture": "新潟県"
+  },
+  {
+    "city": "妙高市",
+    "prefecture": "新潟県"
+  },
+  {
+    "city": "綾瀬市",
+    "prefecture": "神奈川県"
+  },
+  {
+    "city": "伊勢原市",
+    "prefecture": "神奈川県"
+  },
+  {
+    "city": "横須賀市",
+    "prefecture": "神奈川県"
+  },
+  {
+    "city": "横浜市",
+    "prefecture": "神奈川県"
+  },
+  {
+    "city": "海老名市",
+    "prefecture": "神奈川県"
+  },
+  {
+    "city": "鎌倉市",
+    "prefecture": "神奈川県"
+  },
+  {
+    "city": "茅ヶ崎市",
+    "prefecture": "神奈川県"
+  },
+  {
+    "city": "厚木市",
+    "prefecture": "神奈川県"
+  },
+  {
+    "city": "座間市",
+    "prefecture": "神奈川県"
+  },
+  {
+    "city": "三浦市",
+    "prefecture": "神奈川県"
+  },
+  {
+    "city": "小田原市",
+    "prefecture": "神奈川県"
+  },
+  {
+    "city": "秦野市",
+    "prefecture": "神奈川県"
+  },
+  {
+    "city": "逗子市",
+    "prefecture": "神奈川県"
+  },
+  {
+    "city": "川崎市",
+    "prefecture": "神奈川県"
+  },
+  {
+    "city": "相模原市",
+    "prefecture": "神奈川県"
+  },
+  {
+    "city": "大和市",
+    "prefecture": "神奈川県"
+  },
+  {
+    "city": "藤沢市",
+    "prefecture": "神奈川県"
+  },
+  {
+    "city": "南足柄市",
+    "prefecture": "神奈川県"
+  },
+  {
+    "city": "平塚市",
+    "prefecture": "神奈川県"
+  },
+  {
+    "city": "つがる市",
+    "prefecture": "青森県"
+  },
+  {
+    "city": "むつ市",
+    "prefecture": "青森県"
+  },
+  {
+    "city": "五所川原市",
+    "prefecture": "青森県"
+  },
+  {
+    "city": "弘前市",
+    "prefecture": "青森県"
+  },
+  {
+    "city": "黒石市",
+    "prefecture": "青森県"
+  },
+  {
+    "city": "三沢市",
+    "prefecture": "青森県"
+  },
+  {
+    "city": "十和田市",
+    "prefecture": "青森県"
+  },
+  {
+    "city": "青森市",
+    "prefecture": "青森県"
+  },
+  {
+    "city": "八戸市",
+    "prefecture": "青森県"
+  },
+  {
+    "city": "平川市",
+    "prefecture": "青森県"
+  },
+  {
+    "city": "伊東市",
+    "prefecture": "静岡県"
+  },
+  {
+    "city": "伊豆の国市",
+    "prefecture": "静岡県"
+  },
+  {
+    "city": "伊豆市",
+    "prefecture": "静岡県"
+  },
+  {
+    "city": "下田市",
+    "prefecture": "静岡県"
+  },
+  {
+    "city": "掛川市",
+    "prefecture": "静岡県"
+  },
+  {
+    "city": "菊川市",
+    "prefecture": "静岡県"
+  },
+  {
+    "city": "湖西市",
+    "prefecture": "静岡県"
+  },
+  {
+    "city": "御前崎市",
+    "prefecture": "静岡県"
+  },
+  {
+    "city": "御殿場市",
+    "prefecture": "静岡県"
+  },
+  {
+    "city": "三島市",
+    "prefecture": "静岡県"
+  },
+  {
+    "city": "沼津市",
+    "prefecture": "静岡県"
+  },
+  {
+    "city": "焼津市",
+    "prefecture": "静岡県"
+  },
+  {
+    "city": "裾野市",
+    "prefecture": "静岡県"
+  },
+  {
+    "city": "静岡市",
+    "prefecture": "静岡県"
+  },
+  {
+    "city": "袋井市",
+    "prefecture": "静岡県"
+  },
+  {
+    "city": "島田市",
+    "prefecture": "静岡県"
+  },
+  {
+    "city": "藤枝市",
+    "prefecture": "静岡県"
+  },
+  {
+    "city": "熱海市",
+    "prefecture": "静岡県"
+  },
+  {
+    "city": "磐田市",
+    "prefecture": "静岡県"
+  },
+  {
+    "city": "浜松市",
+    "prefecture": "静岡県"
+  },
+  {
+    "city": "富士宮市",
+    "prefecture": "静岡県"
+  },
+  {
+    "city": "富士市",
+    "prefecture": "静岡県"
+  },
+  {
+    "city": "牧之原市",
+    "prefecture": "静岡県"
+  },
+  {
+    "city": "かほく市",
+    "prefecture": "石川県"
+  },
+  {
+    "city": "羽咋市",
+    "prefecture": "石川県"
+  },
+  {
+    "city": "加賀市",
+    "prefecture": "石川県"
+  },
+  {
+    "city": "金沢市",
+    "prefecture": "石川県"
+  },
+  {
+    "city": "七尾市",
+    "prefecture": "石川県"
+  },
+  {
+    "city": "珠洲市",
+    "prefecture": "石川県"
+  },
+  {
+    "city": "小松市",
+    "prefecture": "石川県"
+  },
+  {
+    "city": "能美市",
+    "prefecture": "石川県"
+  },
+  {
+    "city": "白山市",
+    "prefecture": "石川県"
+  },
+  {
+    "city": "野々市市",
+    "prefecture": "石川県"
+  },
+  {
+    "city": "輪島市",
+    "prefecture": "石川県"
+  },
+  {
+    "city": "いすみ市",
+    "prefecture": "千葉県"
+  },
+  {
+    "city": "旭市",
+    "prefecture": "千葉県"
+  },
+  {
+    "city": "印西市",
+    "prefecture": "千葉県"
+  },
+  {
+    "city": "浦安市",
+    "prefecture": "千葉県"
+  },
+  {
+    "city": "我孫子市",
+    "prefecture": "千葉県"
+  },
+  {
+    "city": "鎌ケ谷市",
+    "prefecture": "千葉県"
+  },
+  {
+    "city": "鴨川市",
+    "prefecture": "千葉県"
+  },
+  {
+    "city": "館山市",
+    "prefecture": "千葉県"
+  },
+  {
+    "city": "君津市",
+    "prefecture": "千葉県"
+  },
+  {
+    "city": "香取市",
+    "prefecture": "千葉県"
+  },
+  {
+    "city": "佐倉市",
+    "prefecture": "千葉県"
+  },
+  {
+    "city": "山武市",
+    "prefecture": "千葉県"
+  },
+  {
+    "city": "四街道市",
+    "prefecture": "千葉県"
+  },
+  {
+    "city": "市原市",
+    "prefecture": "千葉県"
+  },
+  {
+    "city": "市川市",
+    "prefecture": "千葉県"
+  },
+  {
+    "city": "習志野市",
+    "prefecture": "千葉県"
+  },
+  {
+    "city": "勝浦市",
+    "prefecture": "千葉県"
+  },
+  {
+    "city": "松戸市",
+    "prefecture": "千葉県"
+  },
+  {
+    "city": "成田市",
+    "prefecture": "千葉県"
+  },
+  {
+    "city": "千葉市",
+    "prefecture": "千葉県"
+  },
+  {
+    "city": "船橋市",
+    "prefecture": "千葉県"
+  },
+  {
+    "city": "匝瑳市",
+    "prefecture": "千葉県"
+  },
+  {
+    "city": "袖ケ浦市",
+    "prefecture": "千葉県"
+  },
+  {
+    "city": "大網白里市",
+    "prefecture": "千葉県"
+  },
+  {
+    "city": "銚子市",
+    "prefecture": "千葉県"
+  },
+  {
+    "city": "東金市",
+    "prefecture": "千葉県"
+  },
+  {
+    "city": "南房総市",
+    "prefecture": "千葉県"
+  },
+  {
+    "city": "柏市",
+    "prefecture": "千葉県"
+  },
+  {
+    "city": "白井市",
+    "prefecture": "千葉県"
+  },
+  {
+    "city": "八街市",
+    "prefecture": "千葉県"
+  },
+  {
+    "city": "八千代市",
+    "prefecture": "千葉県"
+  },
+  {
+    "city": "富津市",
+    "prefecture": "千葉県"
+  },
+  {
+    "city": "富里市",
+    "prefecture": "千葉県"
+  },
+  {
+    "city": "茂原市",
+    "prefecture": "千葉県"
+  },
+  {
+    "city": "木更津市",
+    "prefecture": "千葉県"
+  },
+  {
+    "city": "野田市",
+    "prefecture": "千葉県"
+  },
+  {
+    "city": "流山市",
+    "prefecture": "千葉県"
+  },
+  {
+    "city": "茨木市",
+    "prefecture": "大阪府"
+  },
+  {
+    "city": "羽曳野市",
+    "prefecture": "大阪府"
+  },
+  {
+    "city": "河内長野市",
+    "prefecture": "大阪府"
+  },
+  {
+    "city": "貝塚市",
+    "prefecture": "大阪府"
+  },
+  {
+    "city": "岸和田市",
+    "prefecture": "大阪府"
+  },
+  {
+    "city": "交野市",
+    "prefecture": "大阪府"
+  },
+  {
+    "city": "高石市",
+    "prefecture": "大阪府"
+  },
+  {
+    "city": "高槻市",
+    "prefecture": "大阪府"
+  },
+  {
+    "city": "阪南市",
+    "prefecture": "大阪府"
+  },
+  {
+    "city": "堺市",
+    "prefecture": "大阪府"
+  },
+  {
+    "city": "四條畷市",
+    "prefecture": "大阪府"
+  },
+  {
+    "city": "守口市",
+    "prefecture": "大阪府"
+  },
+  {
+    "city": "松原市",
+    "prefecture": "大阪府"
+  },
+  {
+    "city": "寝屋川市",
+    "prefecture": "大阪府"
+  },
+  {
+    "city": "吹田市",
+    "prefecture": "大阪府"
+  },
+  {
+    "city": "摂津市",
+    "prefecture": "大阪府"
+  },
+  {
+    "city": "泉佐野市",
+    "prefecture": "大阪府"
+  },
+  {
+    "city": "泉大津市",
+    "prefecture": "大阪府"
+  },
+  {
+    "city": "泉南市",
+    "prefecture": "大阪府"
+  },
+  {
+    "city": "大阪狭山市",
+    "prefecture": "大阪府"
+  },
+  {
+    "city": "大阪市",
+    "prefecture": "大阪府"
+  },
+  {
+    "city": "大東市",
+    "prefecture": "大阪府"
+  },
+  {
+    "city": "池田市",
+    "prefecture": "大阪府"
+  },
+  {
+    "city": "東大阪市",
+    "prefecture": "大阪府"
+  },
+  {
+    "city": "藤井寺市",
+    "prefecture": "大阪府"
+  },
+  {
+    "city": "柏原市",
+    "prefecture": "大阪府"
+  },
+  {
+    "city": "八尾市",
+    "prefecture": "大阪府"
+  },
+  {
+    "city": "富田林市",
+    "prefecture": "大阪府"
+  },
+  {
+    "city": "豊中市",
+    "prefecture": "大阪府"
+  },
+  {
+    "city": "枚方市",
+    "prefecture": "大阪府"
+  },
+  {
+    "city": "箕面市",
+    "prefecture": "大阪府"
+  },
+  {
+    "city": "門真市",
+    "prefecture": "大阪府"
+  },
+  {
+    "city": "和泉市",
+    "prefecture": "大阪府"
+  },
+  {
+    "city": "宇佐市",
+    "prefecture": "大分県"
+  },
+  {
+    "city": "臼杵市",
+    "prefecture": "大分県"
+  },
+  {
+    "city": "杵築市",
+    "prefecture": "大分県"
+  },
+  {
+    "city": "国東市",
+    "prefecture": "大分県"
+  },
+  {
+    "city": "佐伯市",
+    "prefecture": "大分県"
+  },
+  {
+    "city": "大分市",
+    "prefecture": "大分県"
+  },
+  {
+    "city": "竹田市",
+    "prefecture": "大分県"
+  },
+  {
+    "city": "中津市",
+    "prefecture": "大分県"
+  },
+  {
+    "city": "津久見市",
+    "prefecture": "大分県"
+  },
+  {
+    "city": "日田市",
+    "prefecture": "大分県"
+  },
+  {
+    "city": "別府市",
+    "prefecture": "大分県"
+  },
+  {
+    "city": "豊後高田市",
+    "prefecture": "大分県"
+  },
+  {
+    "city": "豊後大野市",
+    "prefecture": "大分県"
+  },
+  {
+    "city": "由布市",
+    "prefecture": "大分県"
+  },
+  {
+    "city": "壱岐市",
+    "prefecture": "長崎県"
+  },
+  {
+    "city": "雲仙市",
+    "prefecture": "長崎県"
+  },
+  {
+    "city": "五島市",
+    "prefecture": "長崎県"
+  },
+  {
+    "city": "佐世保市",
+    "prefecture": "長崎県"
+  },
+  {
+    "city": "松浦市",
+    "prefecture": "長崎県"
+  },
+  {
+    "city": "西海市",
+    "prefecture": "長崎県"
+  },
+  {
+    "city": "対馬市",
+    "prefecture": "長崎県"
+  },
+  {
+    "city": "大村市",
+    "prefecture": "長崎県"
+  },
+  {
+    "city": "長崎市",
+    "prefecture": "長崎県"
+  },
+  {
+    "city": "島原市",
+    "prefecture": "長崎県"
+  },
+  {
+    "city": "南島原市",
+    "prefecture": "長崎県"
+  },
+  {
+    "city": "平戸市",
+    "prefecture": "長崎県"
+  },
+  {
+    "city": "諫早市",
+    "prefecture": "長崎県"
+  },
+  {
+    "city": "安曇野市",
+    "prefecture": "長野県"
+  },
+  {
+    "city": "伊那市",
+    "prefecture": "長野県"
+  },
+  {
+    "city": "塩尻市",
+    "prefecture": "長野県"
+  },
+  {
+    "city": "岡谷市",
+    "prefecture": "長野県"
+  },
+  {
+    "city": "茅野市",
+    "prefecture": "長野県"
+  },
+  {
+    "city": "駒ヶ根市",
+    "prefecture": "長野県"
+  },
+  {
+    "city": "佐久市",
+    "prefecture": "長野県"
+  },
+  {
+    "city": "小諸市",
+    "prefecture": "長野県"
+  },
+  {
+    "city": "松本市",
+    "prefecture": "長野県"
+  },
+  {
+    "city": "上田市",
+    "prefecture": "長野県"
+  },
+  {
+    "city": "諏訪市",
+    "prefecture": "長野県"
+  },
+  {
+    "city": "須坂市",
+    "prefecture": "長野県"
+  },
+  {
+    "city": "千曲市",
+    "prefecture": "長野県"
+  },
+  {
+    "city": "大町市",
+    "prefecture": "長野県"
+  },
+  {
+    "city": "中野市",
+    "prefecture": "長野県"
+  },
+  {
+    "city": "長野市",
+    "prefecture": "長野県"
+  },
+  {
+    "city": "東御市",
+    "prefecture": "長野県"
+  },
+  {
+    "city": "飯山市",
+    "prefecture": "長野県"
+  },
+  {
+    "city": "飯田市",
+    "prefecture": "長野県"
+  },
+  {
+    "city": "境港市",
+    "prefecture": "鳥取県"
+  },
+  {
+    "city": "倉吉市",
+    "prefecture": "鳥取県"
+  },
+  {
+    "city": "鳥取市",
+    "prefecture": "鳥取県"
+  },
+  {
+    "city": "米子市",
+    "prefecture": "鳥取県"
+  },
+  {
+    "city": "安来市",
+    "prefecture": "島根県"
+  },
+  {
+    "city": "雲南市",
+    "prefecture": "島根県"
+  },
+  {
+    "city": "益田市",
+    "prefecture": "島根県"
+  },
+  {
+    "city": "江津市",
+    "prefecture": "島根県"
+  },
+  {
+    "city": "出雲市",
+    "prefecture": "島根県"
+  },
+  {
+    "city": "松江市",
+    "prefecture": "島根県"
+  },
+  {
+    "city": "大田市",
+    "prefecture": "島根県"
+  },
+  {
+    "city": "浜田市",
+    "prefecture": "島根県"
+  },
+  {
+    "city": "あきる野市",
+    "prefecture": "東京都"
+  },
+  {
+    "city": "稲城市",
+    "prefecture": "東京都"
+  },
+  {
+    "city": "羽村市",
+    "prefecture": "東京都"
+  },
+  {
+    "city": "国分寺市",
+    "prefecture": "東京都"
+  },
+  {
+    "city": "国立市",
+    "prefecture": "東京都"
+  },
+  {
+    "city": "狛江市",
+    "prefecture": "東京都"
+  },
+  {
+    "city": "三鷹市",
+    "prefecture": "東京都"
+  },
+  {
+    "city": "小金井市",
+    "prefecture": "東京都"
+  },
+  {
+    "city": "小平市",
+    "prefecture": "東京都"
+  },
+  {
+    "city": "昭島市",
+    "prefecture": "東京都"
+  },
+  {
+    "city": "清瀬市",
+    "prefecture": "東京都"
+  },
+  {
+    "city": "西東京市",
+    "prefecture": "東京都"
+  },
+  {
+    "city": "青梅市",
+    "prefecture": "東京都"
+  },
+  {
+    "city": "多摩市",
+    "prefecture": "東京都"
+  },
+  {
+    "city": "町田市",
+    "prefecture": "東京都"
+  },
+  {
+    "city": "調布市",
+    "prefecture": "東京都"
+  },
+  {
+    "city": "東久留米市",
+    "prefecture": "東京都"
+  },
+  {
+    "city": "東村山市",
+    "prefecture": "東京都"
+  },
+  {
+    "city": "東大和市",
+    "prefecture": "東京都"
+  },
+  {
+    "city": "日野市",
+    "prefecture": "東京都"
+  },
+  {
+    "city": "八王子市",
+    "prefecture": "東京都"
+  },
+  {
+    "city": "府中市",
+    "prefecture": "東京都"
+  },
+  {
+    "city": "武蔵村山市",
+    "prefecture": "東京都"
+  },
+  {
+    "city": "武蔵野市",
+    "prefecture": "東京都"
+  },
+  {
+    "city": "福生市",
+    "prefecture": "東京都"
+  },
+  {
+    "city": "立川市",
+    "prefecture": "東京都"
+  },
+  {
+    "city": "阿南市",
+    "prefecture": "徳島県"
+  },
+  {
+    "city": "阿波市",
+    "prefecture": "徳島県"
+  },
+  {
+    "city": "吉野川市",
+    "prefecture": "徳島県"
+  },
+  {
+    "city": "三好市",
+    "prefecture": "徳島県"
+  },
+  {
+    "city": "小松島市",
+    "prefecture": "徳島県"
+  },
+  {
+    "city": "徳島市",
+    "prefecture": "徳島県"
+  },
+  {
+    "city": "美馬市",
+    "prefecture": "徳島県"
+  },
+  {
+    "city": "鳴門市",
+    "prefecture": "徳島県"
+  },
+  {
+    "city": "さくら市",
+    "prefecture": "栃木県"
+  },
+  {
+    "city": "宇都宮市",
+    "prefecture": "栃木県"
+  },
+  {
+    "city": "下野市",
+    "prefecture": "栃木県"
+  },
+  {
+    "city": "佐野市",
+    "prefecture": "栃木県"
+  },
+  {
+    "city": "鹿沼市",
+    "prefecture": "栃木県"
+  },
+  {
+    "city": "小山市",
+    "prefecture": "栃木県"
+  },
+  {
+    "city": "真岡市",
+    "prefecture": "栃木県"
+  },
+  {
+    "city": "足利市",
+    "prefecture": "栃木県"
+  },
+  {
+    "city": "大田原市",
+    "prefecture": "栃木県"
+  },
+  {
+    "city": "栃木市",
+    "prefecture": "栃木県"
+  },
+  {
+    "city": "那須烏山市",
+    "prefecture": "栃木県"
+  },
+  {
+    "city": "那須塩原市",
+    "prefecture": "栃木県"
+  },
+  {
+    "city": "日光市",
+    "prefecture": "栃木県"
+  },
+  {
+    "city": "矢板市",
+    "prefecture": "栃木県"
+  },
+  {
+    "city": "宇陀市",
+    "prefecture": "奈良県"
+  },
+  {
+    "city": "橿原市",
+    "prefecture": "奈良県"
+  },
+  {
+    "city": "葛城市",
+    "prefecture": "奈良県"
+  },
+  {
+    "city": "五條市",
+    "prefecture": "奈良県"
+  },
+  {
+    "city": "御所市",
+    "prefecture": "奈良県"
+  },
+  {
+    "city": "香芝市",
+    "prefecture": "奈良県"
+  },
+  {
+    "city": "桜井市",
+    "prefecture": "奈良県"
+  },
+  {
+    "city": "生駒市",
+    "prefecture": "奈良県"
+  },
+  {
+    "city": "大和郡山市",
+    "prefecture": "奈良県"
+  },
+  {
+    "city": "大和高田市",
+    "prefecture": "奈良県"
+  },
+  {
+    "city": "天理市",
+    "prefecture": "奈良県"
+  },
+  {
+    "city": "奈良市",
+    "prefecture": "奈良県"
+  },
+  {
+    "city": "滑川市",
+    "prefecture": "富山県"
+  },
+  {
+    "city": "魚津市",
+    "prefecture": "富山県"
+  },
+  {
+    "city": "高岡市",
+    "prefecture": "富山県"
+  },
+  {
+    "city": "黒部市",
+    "prefecture": "富山県"
+  },
+  {
+    "city": "射水市",
+    "prefecture": "富山県"
+  },
+  {
+    "city": "小矢部市",
+    "prefecture": "富山県"
+  },
+  {
+    "city": "砺波市",
+    "prefecture": "富山県"
+  },
+  {
+    "city": "南砺市",
+    "prefecture": "富山県"
+  },
+  {
+    "city": "氷見市",
+    "prefecture": "富山県"
+  },
+  {
+    "city": "富山市",
+    "prefecture": "富山県"
+  },
+  {
+    "city": "あわら市",
+    "prefecture": "福井県"
+  },
+  {
+    "city": "越前市",
+    "prefecture": "福井県"
+  },
+  {
+    "city": "坂井市",
+    "prefecture": "福井県"
+  },
+  {
+    "city": "鯖江市",
+    "prefecture": "福井県"
+  },
+  {
+    "city": "勝山市",
+    "prefecture": "福井県"
+  },
+  {
+    "city": "小浜市",
+    "prefecture": "福井県"
+  },
+  {
+    "city": "大野市",
+    "prefecture": "福井県"
+  },
+  {
+    "city": "敦賀市",
+    "prefecture": "福井県"
+  },
+  {
+    "city": "福井市",
+    "prefecture": "福井県"
+  },
+  {
+    "city": "うきは市",
+    "prefecture": "福岡県"
+  },
+  {
+    "city": "みやま市",
+    "prefecture": "福岡県"
+  },
+  {
+    "city": "嘉麻市",
+    "prefecture": "福岡県"
+  },
+  {
+    "city": "久留米市",
+    "prefecture": "福岡県"
+  },
+  {
+    "city": "宮若市",
+    "prefecture": "福岡県"
+  },
+  {
+    "city": "古賀市",
+    "prefecture": "福岡県"
+  },
+  {
+    "city": "行橋市",
+    "prefecture": "福岡県"
+  },
+  {
+    "city": "糸島市",
+    "prefecture": "福岡県"
+  },
+  {
+    "city": "宗像市",
+    "prefecture": "福岡県"
+  },
+  {
+    "city": "春日市",
+    "prefecture": "福岡県"
+  },
+  {
+    "city": "小郡市",
+    "prefecture": "福岡県"
+  },
+  {
+    "city": "太宰府市",
+    "prefecture": "福岡県"
+  },
+  {
+    "city": "大川市",
+    "prefecture": "福岡県"
+  },
+  {
+    "city": "大牟田市",
+    "prefecture": "福岡県"
+  },
+  {
+    "city": "大野城市",
+    "prefecture": "福岡県"
+  },
+  {
+    "city": "筑後市",
+    "prefecture": "福岡県"
+  },
+  {
+    "city": "筑紫野市",
+    "prefecture": "福岡県"
+  },
+  {
+    "city": "中間市",
+    "prefecture": "福岡県"
+  },
+  {
+    "city": "朝倉市",
+    "prefecture": "福岡県"
+  },
+  {
+    "city": "直方市",
+    "prefecture": "福岡県"
+  },
+  {
+    "city": "田川市",
+    "prefecture": "福岡県"
+  },
+  {
+    "city": "那珂川市",
+    "prefecture": "福岡県"
+  },
+  {
+    "city": "八女市",
+    "prefecture": "福岡県"
+  },
+  {
+    "city": "飯塚市",
+    "prefecture": "福岡県"
+  },
+  {
+    "city": "福岡市",
+    "prefecture": "福岡県"
+  },
+  {
+    "city": "福津市",
+    "prefecture": "福岡県"
+  },
+  {
+    "city": "豊前市",
+    "prefecture": "福岡県"
+  },
+  {
+    "city": "北九州市",
+    "prefecture": "福岡県"
+  },
+  {
+    "city": "柳川市",
+    "prefecture": "福岡県"
+  },
+  {
+    "city": "いわき市",
+    "prefecture": "福島県"
+  },
+  {
+    "city": "伊達市",
+    "prefecture": "福島県"
+  },
+  {
+    "city": "会津若松市",
+    "prefecture": "福島県"
+  },
+  {
+    "city": "喜多方市",
+    "prefecture": "福島県"
+  },
+  {
+    "city": "郡山市",
+    "prefecture": "福島県"
+  },
+  {
+    "city": "須賀川市",
+    "prefecture": "福島県"
+  },
+  {
+    "city": "相馬市",
+    "prefecture": "福島県"
+  },
+  {
+    "city": "田村市",
+    "prefecture": "福島県"
+  },
+  {
+    "city": "南相馬市",
+    "prefecture": "福島県"
+  },
+  {
+    "city": "二本松市",
+    "prefecture": "福島県"
+  },
+  {
+    "city": "白河市",
+    "prefecture": "福島県"
+  },
+  {
+    "city": "福島市",
+    "prefecture": "福島県"
+  },
+  {
+    "city": "本宮市",
+    "prefecture": "福島県"
+  },
+  {
+    "city": "たつの市",
+    "prefecture": "兵庫県"
+  },
+  {
+    "city": "芦屋市",
+    "prefecture": "兵庫県"
+  },
+  {
+    "city": "伊丹市",
+    "prefecture": "兵庫県"
+  },
+  {
+    "city": "加古川市",
+    "prefecture": "兵庫県"
+  },
+  {
+    "city": "加西市",
+    "prefecture": "兵庫県"
+  },
+  {
+    "city": "加東市",
+    "prefecture": "兵庫県"
+  },
+  {
+    "city": "高砂市",
+    "prefecture": "兵庫県"
+  },
+  {
+    "city": "三田市",
+    "prefecture": "兵庫県"
+  },
+  {
+    "city": "三木市",
+    "prefecture": "兵庫県"
+  },
+  {
+    "city": "宍粟市",
+    "prefecture": "兵庫県"
+  },
+  {
+    "city": "洲本市",
+    "prefecture": "兵庫県"
+  },
+  {
+    "city": "小野市",
+    "prefecture": "兵庫県"
+  },
+  {
+    "city": "神戸市",
+    "prefecture": "兵庫県"
+  },
+  {
+    "city": "西宮市",
+    "prefecture": "兵庫県"
+  },
+  {
+    "city": "西脇市",
+    "prefecture": "兵庫県"
+  },
+  {
+    "city": "赤穂市",
+    "prefecture": "兵庫県"
+  },
+  {
+    "city": "川西市",
+    "prefecture": "兵庫県"
+  },
+  {
+    "city": "相生市",
+    "prefecture": "兵庫県"
+  },
+  {
+    "city": "丹波市",
+    "prefecture": "兵庫県"
+  },
+  {
+    "city": "丹波篠山市",
+    "prefecture": "兵庫県"
+  },
+  {
+    "city": "淡路市",
+    "prefecture": "兵庫県"
+  },
+  {
+    "city": "朝来市",
+    "prefecture": "兵庫県"
+  },
+  {
+    "city": "南あわじ市",
+    "prefecture": "兵庫県"
+  },
+  {
+    "city": "尼崎市",
+    "prefecture": "兵庫県"
+  },
+  {
+    "city": "姫路市",
+    "prefecture": "兵庫県"
+  },
+  {
+    "city": "宝塚市",
+    "prefecture": "兵庫県"
+  },
+  {
+    "city": "豊岡市",
+    "prefecture": "兵庫県"
+  },
+  {
+    "city": "明石市",
+    "prefecture": "兵庫県"
+  },
+  {
+    "city": "養父市",
+    "prefecture": "兵庫県"
+  },
+  {
+    "city": "旭川市",
+    "prefecture": "北海道"
+  },
+  {
+    "city": "芦別市",
+    "prefecture": "北海道"
+  },
+  {
+    "city": "伊達市",
+    "prefecture": "北海道"
+  },
+  {
+    "city": "歌志内市",
+    "prefecture": "北海道"
+  },
+  {
+    "city": "岩見沢市",
+    "prefecture": "北海道"
+  },
+  {
+    "city": "釧路市",
+    "prefecture": "北海道"
+  },
+  {
+    "city": "恵庭市",
+    "prefecture": "北海道"
+  },
+  {
+    "city": "江別市",
+    "prefecture": "北海道"
+  },
+  {
+    "city": "根室市",
+    "prefecture": "北海道"
+  },
+  {
+    "city": "砂川市",
+    "prefecture": "北海道"
+  },
+  {
+    "city": "札幌市",
+    "prefecture": "北海道"
+  },
+  {
+    "city": "三笠市",
+    "prefecture": "北海道"
+  },
+  {
+    "city": "士別市",
+    "prefecture": "北海道"
+  },
+  {
+    "city": "室蘭市",
+    "prefecture": "北海道"
+  },
+  {
+    "city": "小樽市",
+    "prefecture": "北海道"
+  },
+  {
+    "city": "深川市",
+    "prefecture": "北海道"
+  },
+  {
+    "city": "石狩市",
+    "prefecture": "北海道"
+  },
+  {
+    "city": "赤平市",
+    "prefecture": "北海道"
+  },
+  {
+    "city": "千歳市",
+    "prefecture": "北海道"
+  },
+  {
+    "city": "帯広市",
+    "prefecture": "北海道"
+  },
+  {
+    "city": "滝川市",
+    "prefecture": "北海道"
+  },
+  {
+    "city": "稚内市",
+    "prefecture": "北海道"
+  },
+  {
+    "city": "登別市",
+    "prefecture": "北海道"
+  },
+  {
+    "city": "苫小牧市",
+    "prefecture": "北海道"
+  },
+  {
+    "city": "函館市",
+    "prefecture": "北海道"
+  },
+  {
+    "city": "美唄市",
+    "prefecture": "北海道"
+  },
+  {
+    "city": "富良野市",
+    "prefecture": "北海道"
+  },
+  {
+    "city": "北見市",
+    "prefecture": "北海道"
+  },
+  {
+    "city": "北広島市",
+    "prefecture": "北海道"
+  },
+  {
+    "city": "北斗市",
+    "prefecture": "北海道"
+  },
+  {
+    "city": "名寄市",
+    "prefecture": "北海道"
+  },
+  {
+    "city": "網走市",
+    "prefecture": "北海道"
+  },
+  {
+    "city": "紋別市",
+    "prefecture": "北海道"
+  },
+  {
+    "city": "夕張市",
+    "prefecture": "北海道"
+  },
+  {
+    "city": "留萌市",
+    "prefecture": "北海道"
+  },
+  {
+    "city": "海南市",
+    "prefecture": "和歌山県"
+  },
+  {
+    "city": "岩出市",
+    "prefecture": "和歌山県"
+  },
+  {
+    "city": "紀の川市",
+    "prefecture": "和歌山県"
+  },
+  {
+    "city": "橋本市",
+    "prefecture": "和歌山県"
+  },
+  {
+    "city": "御坊市",
+    "prefecture": "和歌山県"
+  },
+  {
+    "city": "新宮市",
+    "prefecture": "和歌山県"
+  },
+  {
+    "city": "田辺市",
+    "prefecture": "和歌山県"
+  },
+  {
+    "city": "有田市",
+    "prefecture": "和歌山県"
+  },
+  {
+    "city": "和歌山市",
+    "prefecture": "和歌山県"
+  }
+]
